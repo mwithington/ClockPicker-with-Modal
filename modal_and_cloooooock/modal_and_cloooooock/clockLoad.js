@@ -1,0 +1,3 @@
+﻿  $('.clockpicker').clockpicker({
+      donetext: 'Done'
+  });

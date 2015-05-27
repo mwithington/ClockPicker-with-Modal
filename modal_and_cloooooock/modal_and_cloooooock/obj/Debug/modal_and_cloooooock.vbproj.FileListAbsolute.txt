@@ -1,0 +1,9 @@
+c:\users\mwithington\documents\visual studio 2013\Projects\modal_and_cloooooock\modal_and_cloooooock\bin\modal_and_cloooooock.dll.config
+c:\users\mwithington\documents\visual studio 2013\Projects\modal_and_cloooooock\modal_and_cloooooock\bin\modal_and_cloooooock.dll
+c:\users\mwithington\documents\visual studio 2013\Projects\modal_and_cloooooock\modal_and_cloooooock\bin\modal_and_cloooooock.pdb
+c:\users\mwithington\documents\visual studio 2013\Projects\modal_and_cloooooock\modal_and_cloooooock\bin\modal_and_cloooooock.xml
+c:\users\mwithington\documents\visual studio 2013\Projects\modal_and_cloooooock\modal_and_cloooooock\obj\Debug\modal_and_cloooooock.Resources.resources
+c:\users\mwithington\documents\visual studio 2013\Projects\modal_and_cloooooock\modal_and_cloooooock\obj\Debug\modal_and_cloooooock.vbproj.GenerateResource.Cache
+c:\users\mwithington\documents\visual studio 2013\Projects\modal_and_cloooooock\modal_and_cloooooock\obj\Debug\modal_and_cloooooock.dll
+c:\users\mwithington\documents\visual studio 2013\Projects\modal_and_cloooooock\modal_and_cloooooock\obj\Debug\modal_and_cloooooock.xml
+c:\users\mwithington\documents\visual studio 2013\Projects\modal_and_cloooooock\modal_and_cloooooock\obj\Debug\modal_and_cloooooock.pdb
